@@ -23,3 +23,6 @@ Claude https://docs.anthropic.com/en/docs/welcome
 ElevenLabs: https://elevenlabs.io/api
 
 
+Please check the pdf for the system instructions of the Embodied Virtual Mediator
+
+
