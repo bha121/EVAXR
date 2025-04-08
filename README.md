@@ -22,6 +22,8 @@ Claude https://docs.anthropic.com/en/docs/welcome
 
 ElevenLabs: https://elevenlabs.io/api
 
+Mixamo: https://www.mixamo.com/
+
 
 Please check the pdf for the system instructions of the Embodied Virtual Mediator
 
